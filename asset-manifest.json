@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.7f5aebe1.chunk.css",
-  "main.js": "/static/js/main.970e849c.chunk.js",
-  "main.js.map": "/static/js/main.970e849c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-  "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.2215ce6ce70bf3b4be5687eaede9b02d.js": "/precache-manifest.2215ce6ce70bf3b4be5687eaede9b02d.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.7f5aebe1.chunk.css.map": "/static/css/main.7f5aebe1.chunk.css.map"
+  "main.css": "/hive-on-hive/static/css/main.7f5aebe1.chunk.css",
+  "main.js": "/hive-on-hive/static/js/main.a0aed68b.chunk.js",
+  "main.js.map": "/hive-on-hive/static/js/main.a0aed68b.chunk.js.map",
+  "runtime~main.js": "/hive-on-hive/static/js/runtime~main.b2d04cc3.js",
+  "runtime~main.js.map": "/hive-on-hive/static/js/runtime~main.b2d04cc3.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/hive-on-hive/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/hive-on-hive/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/hive-on-hive/index.html",
+  "precache-manifest.f82d7645e5a2cbe3873aa992dd06b7ce.js": "/hive-on-hive/precache-manifest.f82d7645e5a2cbe3873aa992dd06b7ce.js",
+  "service-worker.js": "/hive-on-hive/service-worker.js",
+  "static/css/main.7f5aebe1.chunk.css.map": "/hive-on-hive/static/css/main.7f5aebe1.chunk.css.map"
 }
