@@ -1,1 +1,1 @@
-Is this art? ¯\_(ツ)\_/¯
+Is this art? ¯\\\_(ツ)\_/¯
